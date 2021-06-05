@@ -1,3 +1,3 @@
 # Leedcode practice
-## 001 Two Sum
+## 001. Two Sum
 
