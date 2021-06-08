@@ -7,3 +7,4 @@ The numbers don't mean anything in LeedCode.
  003. Longest Substring Without Repeating Characters
  004. Longest Palindromic Substring
  005. Container With Most Water
+ 006. 3Sum
