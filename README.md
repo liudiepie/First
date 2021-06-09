@@ -2,9 +2,10 @@
 This is based on my practice sequence. 
 The numbers don't mean anything in LeedCode. 
 ## Top Liked Questions
- 001. Two Sum
- 002. Add Two Numbers
- 003. Longest Substring Without Repeating Characters
- 004. Longest Palindromic Substring
- 005. Container With Most Water
- 006. 3Sum
+ 1. Two Sum
+ 2. Add Two Numbers
+ 3. Longest Substring Without Repeating Characters
+ 4. Longest Palindromic Substring
+ 5. Container With Most Water
+ 6. 3Sum
+ 7. Valid Parentheses
