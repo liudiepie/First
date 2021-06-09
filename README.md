@@ -1,4 +1,4 @@
-# Leedcode practice in python
+# Leedcode Practice in Python 3
 This is based on my practice sequence. 
 The numbers don't mean anything in LeedCode. 
 ## Top Liked Questions
