@@ -10,3 +10,6 @@ The numbers don't mean anything in LeedCode.
  6. 3Sum
  7. Valid Parentheses
  8. Merge Two Sorted Lists
+ 9. Generate Parentheses
+ 10. Permutations
+ 11. Maximum Subarray
