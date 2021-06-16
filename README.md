@@ -13,3 +13,6 @@ The numbers don't mean anything in LeedCode.
  9. Generate Parentheses
  10. Permutations
  11. Maximum Subarray
+ 12. Climbing Stairs
+ 13. Validate Binary Search Tree
+ 14. Symmetric Tree
