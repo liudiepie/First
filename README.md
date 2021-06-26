@@ -17,3 +17,12 @@ The numbers don't mean anything in LeedCode.
  13. Validate Binary Search Tree
  14. Symmetric Tree
  15. Maximum Depth of Binary Tree
+ 16. Best Time to Buy and Sell Stock
+ 17. Single Number
+ 18. Linked List Cycle
+ 19. Intersection of Two Linked List
+ 20. Majority Element
+ 21. House Robber
+ 22. Reverse Linked List
+ 23. Invert Binary Tree
+ 24. Palindrome Linked List
