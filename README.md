@@ -26,3 +26,7 @@ The numbers don't mean anything in LeedCode.
  22. Reverse Linked List
  23. Invert Binary Tree
  24. Palindrome Linked List
+ 25. Move Zeros
+ 26. Queue Reconstruction by Height
+ 27. Max Consecutive Ones
+ 28. Letter Combinations of a Phone Number
